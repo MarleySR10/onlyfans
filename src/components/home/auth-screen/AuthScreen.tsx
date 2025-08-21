@@ -29,7 +29,7 @@ const AuthScreen = () => {
 
 						<div className='mt-24'>
 							<p className='text-2xl md:text-5xl text-center tracking-tighter font-bold'>
-								Meet the <RotatedText>Stars</RotatedText> of Our Farm
+								Get your first <RotatedText>Taste</RotatedText> of OnlyAriana
 							</p>
 
 							<MasonryGrid />

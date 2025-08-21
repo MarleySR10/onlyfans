@@ -11,27 +11,27 @@ interface TeamProps {
 const teamList: TeamProps[] = [
 	{
 		imageUrl: "https://i.pravatar.cc/150?img=35",
-		name: "Sarah Thompson",
-		position: "Farm Manager",
-		description: "Sarah ensures the smooth operation of the farm and ensuring the well-being of all our horses. ",
+		name: "Ariana",
+		position: "Your Temptation",
+		description: "I’m the one you came for. Every look, every move, every tease — made just for you. ",
 	},
 	{
 		imageUrl: "https://i.pravatar.cc/150?img=60",
-		name: "James Wilson",
-		position: "Head Trainer",
-		description: "James is our expert in horse training and riding instruction with over 15 years of experience",
+		name: "Lust",
+		position: "The Wild Side",
+		description: "Raw, unfiltered, and dripping with desire. Lust brings the heat you’ll crave again and again.",
 	},
 	{
 		imageUrl: "https://i.pravatar.cc/150?img=36",
-		name: "Dr. Emily Carter",
-		position: "Equine Veterinarian",
-		description: "Dr. Carter is our resident veterinarian, dedicated to maintaining the health of our horses.",
+		name: "Tease",
+		position: "The Slow Burn",
+		description: "Those moments that build the tension, drive you crazy, and leave you begging for more.",
 	},
 	{
 		imageUrl: "https://i.pravatar.cc/150?img=17",
-		name: "Michael Ramirez",
-		position: "Groom and Stable Hand",
-		description: "Michael is responsible for the daily care of our horses, including feeding and grooming. ",
+		name: "Secrets",
+		position: "The Intimate Side",
+		description: "Confessions, private thoughts, and the kind of access no one else gets. Just me and you. ",
 	},
 ];
 
@@ -43,7 +43,7 @@ const Team = () => {
 			</h2>
 
 			<p className='mt-4 mb-10 text-md md:text-xl text-muted-foreground text-center'>
-				Meet the team that makes our farm a special place for horses and riders alike.
+				Meet the team that turns your fantasies into reality.
 			</p>
 
 			<div className='grid md:grid-cols-2 lg:grid-cols-4 gap-8 gap-y-10'>

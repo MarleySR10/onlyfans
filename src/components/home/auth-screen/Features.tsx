@@ -10,38 +10,38 @@ interface FeatureProps {
 
 const features: FeatureProps[] = [
 	{
-		title: "Expert Horse Care Tips",
+		title: "Exclusive Shots",
 		description:
-			"Learn the best practices for keeping your horses healthy and happy. From nutrition advice to grooming.",
+			"you won’t see anywhere else ",
 		image: "/gifs/gif1.gif",
 	},
 	{
-		title: "Riding Techniques",
+		title: "Uncensored Access",
 		description:
-			"Enhance your riding skills with our detailed tutorials. Whether you're into dressage, jumping, or just casual riding, find techniques in seconds.",
+			"nothing held back, no limits",
 		image: "/gifs/gif2.gif",
 	},
 	{
-		title: "Daily Farm Life",
-		description: "See how we care for our horses, manage the farm, and enjoy the beauty of nature.",
+		title: "My Filthy Side",
+		description: "unfiltered, unapologetic, unforgettable",
 		image: "/gifs/gif3.gif",
 	},
 ];
 
 const featureList: string[] = [
-	"Horse Health Insights",
-	"Daily Tips",
+	"Exclusive Shots",
+	"Daily Teases",
 	"Behind-the-Scenes Access",
-	"Training Tutorials",
-	"Riding Techniques",
-	"Horse Care Advice",
+	"Uncensored Access",
+	"Late-Night Secrets",
+	"My Filthy Side",
 ];
 
 const Features = () => {
 	return (
 		<section className='container py-24 sm:py-32 space-y-8'>
 			<h2 className='text-3xl lg:text-4xl font-bold md:text-center'>
-				Many <UnderlinedText className='underline-offset-8'>OnlyHorse</UnderlinedText> Features 🐴
+				Many <UnderlinedText className='underline-offset-8'>OnlyAriana</UnderlinedText> Exclusives 
 			</h2>
 
 			<div className='flex flex-wrap md:justify-center gap-4'>

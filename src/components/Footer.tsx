@@ -5,21 +5,21 @@ const Footer = () => {
 				<p className='text-balance text-center text-sm leading-loose text-muted-foreground md:text-left'>
 					Built by{" "}
 					<a
-						href='https://twitter.com/shadcn'
+						href=''
 						target='_blank'
 						rel='noreferrer'
 						className='font-medium underline underline-offset-4'
 					>
-						you
+						me
 					</a>
-					. The source code is available on{" "}
+					. For{" "}
 					<a
-						href='https://github.com/shadcn-ui/ui'
+						href=''
 						target='_blank'
 						rel='noreferrer'
 						className='font-medium underline underline-offset-4'
 					>
-						GitHub
+						You
 					</a>
 					.
 				</p>

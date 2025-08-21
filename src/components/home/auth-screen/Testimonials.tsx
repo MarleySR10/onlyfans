@@ -6,37 +6,37 @@ const reviews = [
 	{
 		name: "Jack",
 		username: "@jack",
-		body: "The horse care tips are incredibly helpful. Love this site!",
+		body: "Ariana’s content is unreal. Feels like she’s doing it just for me!",
 		img: "https://avatar.vercel.sh/jack",
 	},
 	{
 		name: "Jill",
 		username: "@jill",
-		body: "Fantastic insights on horse training. Highly recommend!",
+		body: "The teasing clips drive me crazy every single day. worth every penny",
 		img: "https://avatar.vercel.sh/jill",
 	},
 	{
 		name: "John",
 		username: "@john",
-		body: "Great community for horse lovers. Very informative!",
+		body: "It’s like Ariana knows exactly what I want… she makes it so personal",
 		img: "https://avatar.vercel.sh/john",
 	},
 	{
 		name: "Jane",
 		username: "@jane",
-		body: "Wonderful content about daily farm life. Amazing!",
+		body: "The private access feels so real — like she’s right here with me!",
 		img: "https://avatar.vercel.sh/jane",
 	},
 	{
 		name: "Jenny",
 		username: "@jenny",
-		body: "The exclusive footage is just stunning. I love it!",
+		body: "Those uncensored drops? Insane. Ariana doesn’t hold anything back",
 		img: "https://avatar.vercel.sh/jenny",
 	},
 	{
 		name: "James",
 		username: "@james",
-		body: "Horse health tips are spot on. Very useful website!",
+		body: "Honestly addictive. I keep coming back for more every night",
 		img: "https://avatar.vercel.sh/james",
 	},
 ];
