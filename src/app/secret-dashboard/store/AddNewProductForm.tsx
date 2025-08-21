@@ -59,7 +59,7 @@ const AddNewProductForm = () => {
 							<Input
 								id='name'
 								type='text'
-								placeholder='OnlyHorse Special'
+								placeholder='OnlyAriana Special'
 								required
 								value={name}
 								onChange={(e) => setName(e.target.value)}
